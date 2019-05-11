@@ -1,0 +1,19 @@
+{
+  "name": "onemen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lzccheng/onemen.git",
+  "author": "lzccheng <lai.zhicheng@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa2-cors": "^2.0.6",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.31.0",
+    "webpack-cli": "^3.3.2"
+  }
+}
